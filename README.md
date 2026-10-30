@@ -2,6 +2,18 @@
 
 An end-to-end Machine Learning application that predicts customer churn and identifies customers who may be at risk of leaving a telecom service provider. The system uses customer demographic, service, contract, and billing information to generate churn predictions, probability scores, and risk categories through an interactive Streamlit web application.
 
+## 🚀 Live Demo
+
+Experience the **Intelligent Customer Churn Prediction and Risk Analysis System** live:
+
+🔗 **[Launch Live Application](https://intelligent-customer-churn-prediction-and-risk-analysis-system.streamlit.app/)**
+
+The application allows users to enter customer details and instantly receive:
+- Customer churn predictions
+- Churn probability scores
+- Customer risk classifications (Low, Medium, High)
+
+**Try the live application and explore how Machine Learning can help identify customers at risk of leaving.**
 ## Project Overview
 
 Customer churn is a major challenge for telecom companies because losing existing customers can affect revenue and business growth.
